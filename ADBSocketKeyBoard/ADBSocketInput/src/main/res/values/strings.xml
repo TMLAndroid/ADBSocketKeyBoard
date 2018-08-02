@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADBSocketInput</string>
+	<string name="keyboard_name">ADB 输入法</string>
+	<string name="keyboard_on">ADB Input {ON}</string>
+</resources>
